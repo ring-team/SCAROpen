@@ -1,0 +1,9 @@
+/* This file is generated at project configuration by CMake
+ * Do not modify it directly but modify the include/basic/scar_config.h.in file 
+ * and re-run the project configuration
+ */
+
+/* Platform dependent settings */
+#cmakedefine SCAR_EXPORTS
+#cmakedefine RINGMESH_EXPORTS
+#cmakedefine GEO_DYNAMIC_LIBS
