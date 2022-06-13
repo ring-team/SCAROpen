@@ -42,9 +42,8 @@ Repair or simplify a 2D GeoModel (cross-sections, maps) as described in [Anquez 
 
 This reposity is dedicated to public the algorithms used in:
 
-(accepted, under revision)
-Anquez, P., Glinsky, N., Cupillard, P., & Caumon, G. (XXX). Impacts of geometric model simplifications on wave propagation - Application to ground motion simulation in the lower Var valley basin (France), XXX.
-Click here (link soon!)
+Anquez, P., Glinsky, N., Cupillard, P., & Caumon, G. (2022). Impacts of geometric model simplifications on wave propagation - Application to ground motion simulation in the lower Var valley basin (France), Geophysical Journal International, 229, 110–137.
+[Click here][papierGJI]
 
 Another article and a PhD thesis (in French) present more in details the algorithms:
 
@@ -66,3 +65,4 @@ SCAROpen is derived from SCAR, a research code written by Pierre Anquez between 
    [consortium]: <https://www.ring-team.org/consortium>
    [papierCRG]: <https://www.sciencedirect.com/science/article/pii/S1631071318301706>
    [these]: <https://hal.univ-lorraine.fr/tel-02330956/document>
+   [papierGJI]: <https://doi.org/10.1093/gji/ggab447>
